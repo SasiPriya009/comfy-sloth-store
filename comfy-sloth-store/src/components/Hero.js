@@ -12,10 +12,11 @@ const Hero = () => {
           comfort zone
         </h1>
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto, at
-          sed omnis corporis doloremque possimus velit! Repudiandae nisi odit,
-          aperiam odio ducimus, obcaecati libero et quia tempora excepturi quis
-          alias?
+        Unleash your creativity and design a haven tailored to your preferences.
+         Our curated collection of furniture is a palette of possibilities. 
+         From cozy nooks to expansive living areas, we offer pieces that invite
+          you to design your comfort zone.
+
         </p>
         <Link to='/products' className='btn hero-btn'>
           shop now
